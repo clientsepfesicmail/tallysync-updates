@@ -1,5 +1,6 @@
 {
-  "version": "2.1",
-  "url": "https://github.com/clientsepfescimail/tallysync-updates/releases/download/v2.1/TallySyncPro_Setup_v2_1.exe",
-  "notes": "Initial TallySync Pro release with license sync fix and new app icon."
+  "version": "2.2",
+  "setup_url": "https://github.com/clientsepfesicmail/tallysync-updates/releases/download/v2.2/TallySyncPro_Setup_v2_2.exe",
+  "notes": "Fixed invoice-related issues in selected cases. Improved Virtual Import. Updated Cash Book with better handling and performance.",
+  "mandatory": false
 }
