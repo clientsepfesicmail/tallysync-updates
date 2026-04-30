@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.3",
-  "version": "2.3",
-  "message": "New update available: v2.3",
-  "download_url": "https://github.com/clientsepfesicmail/tallysync-updates/releases/download/V2.3/TallySyncPro_Setup_v2_3.exe"
+  "version": "2.5",
+  "latest_version": "2.5",
+  "download_url": "https://github.com/clientsepfesicmail/tallysync-updates/releases/latest/download/TallySyncPro_Setup_Latest.exe",
+  "release_notes": "TallySync Pro v2.5 update available."
 }
